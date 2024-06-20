@@ -50,17 +50,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Grant Location Access**: When prompted, allow the app to access your location to get weather information based on your current location.
 2. **Search for a City**: Use the search bar to enter the name of a city and get its current weather information.
 
-## File Structure
 
-skycast-weather-app/
-├── assets/
-│   ├── cloud.png
-│   ├── humidity.png
-│   ├── location.png
-│   ├── loading.gif
-│   ├── not-found.png
-│   ├── search.png
-│   ├── wind.png
-├── style.css
-├── script.js
-└── index.html
